@@ -67,7 +67,7 @@ System.setProperty("org.lwjgl.opengl.Display.allowSoftwareOpenGL", "true");
 
 ## Additional Third party frameworks / libraries
 * [VisUI](https://github.com/kotcrab/vis-ui/wiki/visui) - VisUI
-* [Artemis-Odb](https://github.com/junkdog/artemis-odb)
+* [Artemis-Odb](https://github.com/junkdog/artemis-odb) - Artemis-ODB ECS-Framework
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
